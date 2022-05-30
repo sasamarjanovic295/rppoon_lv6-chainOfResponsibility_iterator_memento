@@ -1,0 +1,20 @@
+ERROR
+Test 1
+WARNING
+Test 2
+ERROR
+Test 1
+WARNING
+Test 2
+ERROR
+Test 1
+WARNING
+Test 2
+ERROR
+Test 1
+WARNING
+Test 2
+ERROR
+Test 1
+WARNING
+Test 2

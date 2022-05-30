@@ -1,0 +1,13 @@
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.AssemblyInfo.cs
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.exe
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.deps.json
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.runtimeconfig.json
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.runtimeconfig.dev.json
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.dll
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\bin\Debug\netcoreapp3.1\chainOfResponsibility.pdb
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.dll
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.pdb
+C:\Users\student\source\repos\lv6rppoon\chainOfResponsibility\obj\Debug\netcoreapp3.1\chainOfResponsibility.genruntimeconfig.cache

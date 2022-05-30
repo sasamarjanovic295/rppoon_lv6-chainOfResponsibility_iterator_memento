@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.AssemblyInfo.cs
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.exe
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.deps.json
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.json
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.runtimeconfig.dev.json
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\student\source\repos\lv6rppoon\Iterator\bin\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.dll
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.pdb
+C:\Users\student\source\repos\lv6rppoon\Iterator\obj\Debug\netcoreapp3.1\Iterator.genruntimeconfig.cache

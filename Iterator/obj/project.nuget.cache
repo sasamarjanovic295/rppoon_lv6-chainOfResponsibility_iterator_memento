@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JyUZ+xSHOdV1QGxwh3Bv1b1QqvCfygrWSJXBwjYwuZkG+YJK9+GZo6FadwIOeb1nYy5V/Ac2YGOPwvyNQ1hKBw==",
+  "success": true,
+  "projectFilePath": "/Users/sasamarjanovic/Documents/ferit/semestar4/RPPOON/lv6/lv6rppoon/Iterator/Iterator.csproj",
+  "expectedPackageFiles": [
+    "/Users/sasamarjanovic/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/sasamarjanovic/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.25/microsoft.netcore.app.host.osx-x64.3.1.25.nupkg.sha512",
+    "/Users/sasamarjanovic/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
